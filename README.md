@@ -1,2 +1,2 @@
 # Resturant-APP-React-Native
-This Was a team work project at university. We designed a database for a car rental system company which has +15 entities, applied Oracle SQL for the implementation, and used the best practices to design a database (with normalization).
+It was a team project. Restaurant menu app that allows you to add items to your cart from different restaurants and pay for every restaurant alone (the payment is not implemented yet), also you can save the restaurants to your favorites and check them in another page. The login, register and logout are fully functional and managed by firebase
